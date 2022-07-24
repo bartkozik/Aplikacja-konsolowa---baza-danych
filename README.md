@@ -1,2 +1,1 @@
-# workshop1
-creating data base
+Projekt apklikacji konsolowej wykorzystujący Flask, POSTGRES i ARGPARSE.
