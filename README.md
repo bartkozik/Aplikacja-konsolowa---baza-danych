@@ -1,1 +1,1 @@
-Projekt apklikacji konsolowej wykorzystujący Flask, POSTGRES i ARGPARSE.
+Simple console app (ARGPARSE, POSTRES)
